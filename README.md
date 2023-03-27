@@ -7,6 +7,12 @@ I am Olatunji Ewebiyi, currently working as a Software Developer at the [Nigeria
 [![Gmail Badge](https://img.shields.io/badge/-olatunji.ewebiyi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olatunji.ewebiyi@gmail.com)](mailto:olatunji.ewebiyi@gmail.com)
 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=olatunjie&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olatunjie&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=olatunjie.olatunjie)
+
+
 <!--
 **olatunjie/olatunjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
