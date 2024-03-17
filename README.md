@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Olatunji Ewebiyi, currently working as a Software Developer at the [Nigerian Exchange Limited](https://ngxgroup.com/). I am a Full-Stack .NET developer and Data Analyst.I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Olatunji Ewebiyi, currently working as an Information Technology Specialist at the [Tengen Family office](https://tengenfamilyoffice.com/). I am multi-skilled in diverse IT fields but I function more as a Full-Stack .NET developer and Data Engineer.I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-olatunjie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techgee/)](https://www.linkedin.com/in/techgee/)
 [![Medium Badge](https://img.shields.io/badge/olatunji-ewebiyi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@olatunji.ewebiyi)](https://medium.com/@olatunji.ewebiyi)
